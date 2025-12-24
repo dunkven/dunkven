@@ -32,9 +32,9 @@ Here are a few things I’ve been working on:
 
 ## 📊 GitHub Stats
 
-![Dunkven's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunkven&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Dunkven's GitHub stats](https://github-readme-stats.vercel.app/api?username=dunkven99&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dunkven&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dunkven99&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
